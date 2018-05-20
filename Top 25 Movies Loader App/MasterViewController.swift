@@ -1,10 +1,4 @@
-//
-//  MasterViewController.swift
-//  Corrected_shreyasi_movies
-//
-//  Created by Kokam on 5/5/17.
-//  Copyright © 2017 Kokam. All rights reserved.
-//  This is final version.
+
 
 import Foundation
 import UIKit
