@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  Corrected_shreyasi_movies
-//
-//  Created by Kokam on 5/5/17.
-//  Copyright © 2017 Kokam. All rights reserved.
-//  This is final version.
+
 
 import Foundation
 import UIKit
@@ -22,7 +16,7 @@ class DetailViewController : UIViewController, SKStoreProductViewControllerDeleg
     
     @IBAction func buttonclicked(sender: UIButton){
         open(url: id_address)
-      //openStoreProductWithiTunesItemIdentifier(identifier: "687505681")
+     
     }
     
     override func viewDidLoad() {
