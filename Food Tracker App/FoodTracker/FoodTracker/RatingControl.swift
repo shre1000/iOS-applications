@@ -1,10 +1,4 @@
-//
-//  RatingControl.swift
-//  FoodTracker
-//
-//  Created by Jane Appleseed on 11/2/16.
-//  Copyright © 2016 Apple Inc. All rights reserved.
-//
+
 
 import UIKit
 
