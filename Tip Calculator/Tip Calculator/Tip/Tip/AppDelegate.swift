@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Tip
-//
-//  Created by Yixin Chen on 2/27/17.
-//  Copyright © 2017 University of Mississippi. All rights reserved.
-//
 
 import UIKit
 
