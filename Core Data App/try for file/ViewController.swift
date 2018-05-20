@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  try for file
-//
-//  Created by Kokam on 4/18/17.
-//  Copyright © 2017 Kokam. All rights reserved.
-//
 
 import UIKit
 import  GoogleMobileAds
