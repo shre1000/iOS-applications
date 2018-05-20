@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  try for file
-//
-//  Created by Kokam on 4/18/17.
-//  Copyright © 2017 Kokam. All rights reserved.
-//
 
 import UIKit
 import  GoogleMobileAds
@@ -14,7 +7,7 @@ class ViewController: UIViewController, GADNativeExpressAdViewDelegate, GADVideo
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        nativeExpressAd.adUnitID = "ca-app-pub-4130300105236338/3603939606"
+        nativeExpressAd.adUnitID = "ca-app-pub-4130305236338/36039606"
         nativeExpressAd.rootViewController = self
         nativeExpressAd.delegate = self
         
