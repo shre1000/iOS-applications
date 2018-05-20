@@ -7,7 +7,7 @@ class ViewController: UIViewController, GADNativeExpressAdViewDelegate, GADVideo
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        nativeExpressAd.adUnitID = "ca-app-pub-4130300105236338/3603939606"
+        nativeExpressAd.adUnitID = "ca-app-pub-413036338/3639606"
         nativeExpressAd.rootViewController = self
         nativeExpressAd.delegate = self
         
