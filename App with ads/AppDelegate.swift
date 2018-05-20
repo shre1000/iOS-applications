@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  try for file
-//
-//  Created by Kokam on 4/18/17.
-//  Copyright © 2017 Kokam. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
@@ -18,7 +12,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        GADMobileAds.configure(withApplicationID: "ca-app-pub-4130300105236338~7499415606")
+        GADMobileAds.configure(withApplicationID: "ca-app-pub-4130105236338~74415606")
         return true
     }
 
